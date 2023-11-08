@@ -1,0 +1,10 @@
+{
+  "title": "Welcome",
+  "@title": {
+    "description": "Title for the Welcome screen"
+  },
+  "helloWorld": "Hello World2!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
